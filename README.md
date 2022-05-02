@@ -8,37 +8,37 @@ Credit risk is an unbalanced classification problem.  In this project I used a c
     - Accuracy: 62.9%
     - Precision: 0.01
     - Recall: 0.57
-![Naive Random Oversampling](/Resources/naive_random_oversampling.png)
+    - ![Naive Random Oversampling](/Resources/naive_random_oversampling.png)
 
 - **SMOTE Oversampling**
     - Accuracy: 62.8%
     - Precision: 0.01
     - Recall: 0.62
-![SMOTE Oversampling](/Resources/smote_oversampling.png)
+    - ![SMOTE Oversampling](/Resources/smote_oversampling.png)
 
 - **Cluster Centroids**
     - Accuracy: 51.6%
     - Precision: 0.01
     - Recall: 0.60
-![Cluster Centroids](/Resources/cluster_centroids.png)
+    - ![Cluster Centroids](/Resources/cluster_centroids.png)
 
 - **SMOTEENN**
     - Accuracy: 64.1%
     - Precision: 0.01
     - Recall: 0.70
-![Naive Random Oversampling](/Resources/smoteenn.png)
+    - ![Naive Random Oversampling](/Resources/smoteenn.png)
 
 - **Random Forest**
     - Accuracy: 67.2%
     - Precision: 0.73
     - Recall: 0.34
-![Random Forest](/Resources/random_forest.png)
+    - ![Random Forest](/Resources/random_forest.png)
 
 - **Easy Ensemble**
     - Accuracy: 92.5%
     - Precision: 0.07
     - Recall: 0.91
-![Easy Ensemble](/Resources/easy_ensemble.png)
+    - ![Easy Ensemble](/Resources/easy_ensemble.png)
 
 
 ## Summary
